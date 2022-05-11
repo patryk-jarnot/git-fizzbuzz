@@ -1,0 +1,3 @@
+
+
+void fizz(int number);
