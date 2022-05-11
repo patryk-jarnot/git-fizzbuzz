@@ -1,6 +1,6 @@
 
 /**
- * Buzz declaration
+ * Buzz declaration2
  */
 void buzz(int number);
 
